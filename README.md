@@ -1,4 +1,4 @@
-#This is a course project for CSC207
+#This is a course project for CSC207, collectively done by me and my teammates.
 
 In order to run this program, please go to phase2/controller/MainApp
 and run MainApp file.
